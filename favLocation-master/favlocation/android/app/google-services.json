@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029653119628",
+    "project_id": "favlocation-dc341",
+    "storage_bucket": "favlocation-dc341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029653119628:android:8a8f33ed5a86a782ca31a9",
+        "android_client_info": {
+          "package_name": "com.example.favlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029653119628-k8h7fuo20d3b0tv98jgd17rm5cp69ha7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtY-_EP1KIWoG5AHAjBrAiMj--V86tRMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029653119628-k8h7fuo20d3b0tv98jgd17rm5cp69ha7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
